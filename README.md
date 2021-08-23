@@ -6,8 +6,8 @@ Self taught developer focused on learning new technolgies and building out my po
 
 ### Currently
 
-* Continue to experiment with Vue and it's ecosystem
-* Learning Node.js and MySQL
+* Continuing to experiment with Vue and it's ecosystem
+* Learning Node.js and NoSQL (MongoDB)
 * Practicing javascript algorithms
 
 ### Projects
