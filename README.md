@@ -20,8 +20,8 @@ mya-portfolio.netlify.app | something | vue app here | something -->
 ### Contact Me
 
 * [Twitter](https://twitter.com/_stonedavid)
-* [My Website](dstone.dev)
-* [LinkedIn](https://www.linkedin.com/in/david-stone-02098710a/)
+<!-- * [My Website](dstone.dev) -->
+<!-- * [LinkedIn](https://www.linkedin.com/in/david-stone-02098710a/) -->
 
 <!-- ### Certificates
 
