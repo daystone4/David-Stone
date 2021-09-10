@@ -25,6 +25,6 @@ mya-portfolio.netlify.app | something | vue app here | something -->
 
 ### Certificates
 
-* Certificates(https://github.com/daystone4/Certificates)
+* [Certificates](https://github.com/daystone4/Certificates)
 
 
